@@ -33,8 +33,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lrmK89jA6IimgVejH8OU-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="260" width="50" height="100" as="geometry" />
+        <mxCell id="lrmK89jA6IimgVejH8OU-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
