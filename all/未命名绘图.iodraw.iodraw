@@ -8,7 +8,7 @@
           <mxGeometry x="300" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lrmK89jA6IimgVejH8OU-3" value="综合商场管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lrmK89jA6IimgVejH8OU-5" value="综合商场管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
@@ -18,8 +18,8 @@
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="250" y="190" />
-              <mxPoint x="360" y="190" />
+              <mxPoint x="240" y="160" />
+              <mxPoint x="360" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
